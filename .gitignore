@@ -8,3 +8,4 @@ cmake-build-*/
 
 # Generated
 src/gui/Config.h
+/x64
